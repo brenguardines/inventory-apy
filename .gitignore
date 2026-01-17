@@ -1,0 +1,46 @@
+# ======================
+# Maven / Java
+# ======================
+target/
+**/target/
+
+# ======================
+# Maven Wrapper
+# ======================
+.mvn/wrapper/maven-wrapper.jar
+
+# ======================
+# IDEs
+# ======================
+
+## IntelliJ IDEA
+.idea/
+*.iml
+*.ipr
+*.iws
+
+## Eclipse / STS
+.classpath
+.project
+.settings/
+.springBeans
+.sts4-cache
+.apt_generated
+.factorypath
+
+## NetBeans
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+build/
+**/build/
+
+## VS Code
+.vscode/
+
+# ======================
+# OS
+# ======================
+.DS_Store
