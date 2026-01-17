@@ -11,7 +11,7 @@
 	<artifactId>inventory-api</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>inventory-api</name>
-	<description>Demo project for Spring Boot</description>
+	<description>Inventory management REST API built with Spring Boot</description>
 	<url/>
 	<licenses>
 		<license/>
