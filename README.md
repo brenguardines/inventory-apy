@@ -25,9 +25,9 @@ It uses an in-memory H2 database, input validation, global exception handling, a
 
 ### 1. Clone the repository
 ```bash
-git clone git@github.com:brenguardines/inventory-apy.git
-cd inventory-apy
-(If you prefer HTTPS: https://github.com/brenguardines/inventory-apy.git)
+git clone git@github.com:brenguardines/inventory-api.git
+cd inventory-api
+(If you prefer HTTPS: https://github.com/brenguardines/inventory-api.git)
 ```
 
 
@@ -122,7 +122,7 @@ Password: (empty)
 ## Estructura general del proyecto
 
 ```
-📦 inventory-apy
+📦 inventory-api
  ┣ 📂src
  ┃ ┣ 📂main
  ┃ ┃ ┣ 📂java
